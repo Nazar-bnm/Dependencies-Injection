@@ -18,7 +18,7 @@ To complete the task, you have to perform the following steps:
 - fork this repo;
 - check [ioc-lite](https://www.npmjs.com/package/ioc-lite) library documentation;
 - rewrite project to automate manage dependencies with IoC Container;
-- create a PR in your own repo and send the link to the course professor;
+- create a PR in your **OWN** repo and send the link to the course professor;
 
 Hints: 
 - there is already created ioc file;
